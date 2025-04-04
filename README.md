@@ -31,6 +31,7 @@ This repository contains my assignments and projects from the DataCamp Excel Fun
       - 📂 Assignment 6 (3.6)
       - 📂 Assignment 7 (3.7)
 
+
 - 📂 Course 2 - Data Preparation in Excel
   - 📂 Chapter 1 - Starting Data Preparation in Excel
       - 📂 Assignment 1 (1.1)
@@ -55,6 +56,7 @@ This repository contains my assignments and projects from the DataCamp Excel Fun
       - 📂 Assignment 3 (4.3)
       - 📂 Assignment 4 (4.4)
       - 📂 Assignment 5 (4.5)
+
 
 - 📂 Course 3 - Data Visualization in Excel
   - 📂 Chapter 1 - Building basic charts
@@ -82,25 +84,27 @@ This repository contains my assignments and projects from the DataCamp Excel Fun
       - 📂 Assignment 3 (4.3)
       - 📂 Assignment 4 (4.4)
 
+
 - 📂 Course 4 - Data Analysis in Excel
   - 📂 Chapter 1 - Exploring data with PivotTables
-    - 📂 Assignment 1 (1.1)
+      - 📂 Assignment 1 (1.1)
 
   - 📂 Chapter 2 - Intermediate Logical Functions
-    - 📂 Assignment 1 (2.1)
+      - 📂 Assignment 1 (2.1)
 
   - 📂 Chapter 3 - What-if analysis
-    - 📂 Assignment 1 (3.1)
+      - 📂 Assignment 1 (3.1)
 
   - 📂 Chapter 4 - Forecasting
-    - 📂 Assignment 1 (4.1)
+      - 📂 Assignment 1 (4.1)
+
 
 - 📂 Course 5 - Case Study: Analyzing Customer Churn in Excel
   - 📂 Chapter 1 - Exploratory analysis
-    - 📂 Assignment 1 (1.1)
+      - 📂 Assignment 1 (1.1)
 
    - 📂 Chapter 2 - Investigating churn patterns
-    - 📂 Assignment 1 (2.1)
+      - 📂 Assignment 1 (2.1)
 
   - 📂 Chapter 3 - Creating a cohesive story
-    - 📂 Assignment 1 (3.1)
+      - 📂 Assignment 1 (3.1)
