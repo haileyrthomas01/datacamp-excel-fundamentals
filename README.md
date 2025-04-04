@@ -13,6 +13,7 @@ This repository contains my assignments and projects from the DataCamp Excel Fun
     - 📂 Assignment 5 (1.5)
     - 📂 Assignment 6 (1.6)
     - 📂 Assignment 7 (1.7)
+
   - 📂 Chapter 2 - Managing data and applying aggregate functions
     - 📂 Assignment 1 (2.1)
     - 📂 Assignment 2 (2.2)
@@ -20,7 +21,8 @@ This repository contains my assignments and projects from the DataCamp Excel Fun
     - 📂 Assignment 4 (2.4)
     - 📂 Assignment 5 (2.5)
     - 📂 Assignment 6 (2.6)
-  - 📂 Chapter 3 - Other functions and visualizing data
+
+   - 📂 Chapter 3 - Other functions and visualizing data
     - 📂 Assignment 1 (3.1)
     - 📂 Assignment 2 (3.2)
     - 📂 Assignment 3 (3.3)
@@ -35,15 +37,18 @@ This repository contains my assignments and projects from the DataCamp Excel Fun
     - 📂 Assignment 2 (1.2)
     - 📂 Assignment 3 (1.3)
     - 📂 Assignment 4 (1.4)
-  - 📂 Chapter 2 - Functions for Data Preparation
+
+   - 📂 Chapter 2 - Functions for Data Preparation
     - 📂 Assignment 1 (2.1)
     - 📂 Assignment 2 (2.2)
     - 📂 Assignment 3 (2.3)
+
   - 📂 Chapter 3 - Conditional Formulas
     - 📂 Assignment 1 (3.1)
     - 📂 Assignment 2 (3.2)
     - 📂 Assignment 3 (3.3)
     - 📂 Assignment 4 (3.4)
+
   - 📂 Chapter 4 - Lookups and Data Transformation
     - 📂 Assignment 1 (4.1)
     - 📂 Assignment 2 (4.2)
@@ -58,16 +63,19 @@ This repository contains my assignments and projects from the DataCamp Excel Fun
     - 📂 Assignment 3 (1.3)
     - 📂 Assignment 4 (1.4)
     - 📂 Assignment 5 (1.5)
+
   - 📂 Chapter 2 - Advancing to more complex charts
     - 📂 Assignment 1 (2.1)
     - 📂 Assignment 2 (2.2)
     - 📂 Assignment 3 (2.3)
     - 📂 Assignment 4 (2.4)
+
   - 📂 Chapter 3 - Data visualization
     - 📂 Assignment 1 (3.1)
     - 📂 Assignment 2 (3.2)
     - 📂 Assignment 3 (3.3)
     - 📂 Assignment 4 (3.4)
+
   - 📂 Chapter 4 - Visualizing disaggregated data with PivotCharts
     - 📂 Assignment 1 (4.1)
     - 📂 Assignment 2 (4.2)
@@ -77,17 +85,22 @@ This repository contains my assignments and projects from the DataCamp Excel Fun
 - 📂 Course 4 - Data Analysis in Excel
   - 📂 Chapter 1 - Exploring data with PivotTables
     - 📂 Assignment 1 (1.1)
+
   - 📂 Chapter 2 - Intermediate Logical Functions
     - 📂 Assignment 1 (2.1)
+
   - 📂 Chapter 3 - What-if analysis
     - 📂 Assignment 1 (3.1)
+
   - 📂 Chapter 4 - Forecasting
     - 📂 Assignment 1 (4.1)
 
 - 📂 Course 5 - Case Study: Analyzing Customer Churn in Excel
   - 📂 Chapter 1 - Exploratory analysis
     - 📂 Assignment 1 (1.1)
-  - 📂 Chapter 2 - Investigating churn patterns
+
+   - 📂 Chapter 2 - Investigating churn patterns
     - 📂 Assignment 1 (2.1)
+
   - 📂 Chapter 3 - Creating a cohesive story
     - 📂 Assignment 1 (3.1)
