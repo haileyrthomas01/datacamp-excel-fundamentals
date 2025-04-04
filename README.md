@@ -108,3 +108,11 @@ This repository contains my assignments and projects from the DataCamp Excel Fun
 
   - 📂 Chapter 3 - Creating a cohesive story
       - 📂 Assignment 1 (3.1)
+
+Each course folder contains assignments with summaries in their respective README files.
+
+## Key Learnings
+- Mastered basic Excel functions and formulas
+- Created dynamic visualizations using charts
+- Analyzed data using pivot tables
+- Explored advanced Excel tools like Power Query
