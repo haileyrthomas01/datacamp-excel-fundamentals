@@ -1,9 +1,9 @@
 ## Chapter 1: Exploratory analysis
-####Apply your Excel Skills with a Case Study
+Apply your Excel Skills with a Case Study
 For subscription-based businesses, reducing customer churn is a top priority. In this Excel case study, you'll investigate a dataset from an example telecom company, Databel, and analyze their churn rates.
 
 Understand why customers churn
-####Analyzing churn doesn’t just mean knowing the churn rate: it’s also about figuring out why customers are churning at the rate they are and how to reduce churn. You'll answer these questions by creating calculated columns and fields, building PivotTables, and creating an eye-catching dashboard.
+Analyzing churn doesn’t just mean knowing the churn rate: it’s also about figuring out why customers are churning at the rate they are and how to reduce churn. You'll answer these questions by creating calculated columns and fields, building PivotTables, and creating an eye-catching dashboard.
 
 ## Assignments
 ### 1.1 - Importing Files
