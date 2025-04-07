@@ -19,7 +19,7 @@ In the last chapter, you’ll create a dashboard-style sheet and arrange your vi
 ![Formatting Example](https://github.com/haileyrthomas01/datacamp-excel-fundamentals/blob/main/case-study/screenshots/casestudydash.png)
 
 ## Key Insights
-- 2.1: There are 6,687 customers that Databel has served
+- 2.1: There are 6,687 customers that Databel has served, 1.786 of them who are churned, and the churn rate is roughly 27%
 - 2.2: Customers are not leaving because they are necessarily getting a better service, there are other indicators for why they are leaving.
 - 2.3: The churn rate for customers aged between 19-28 years old is 21.96%. Customers in this age group typically have the lowest churn rate compared to all other groups.
 - 2.4: Wisconsin (WI), Idaho (ID), North Dakota (ND) and Rhode Island (RI) all had a churn rate of 25% for customers who have an international plan.
