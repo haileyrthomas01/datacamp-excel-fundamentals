@@ -1,4 +1,5 @@
 ## Chapter 4: Lookups and Data Transformation
+In this chapter, you’ll finish by looking at some important lookup and reference functions available within Excel, specifically the VLOOKUP and HLOOKUP functions. Additionally, you’ll be introduced to the powerful world of PivotTables, which helps you summarize and analyze large volumes of data through dynamic tables.
 
 ## Assignments
 ### 4.1 - Look Up
