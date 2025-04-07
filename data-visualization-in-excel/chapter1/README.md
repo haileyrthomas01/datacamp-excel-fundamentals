@@ -1,4 +1,5 @@
 ## Chapter 1: Building Basic Charts
+In Chapter 1, you will embark on an immersive exploration of basic Excel charts, equipping yourself with the skills to create impactful visualizations and customize chart types. Through a comprehensive understanding of Series and Categories, you will gain the expertise to transform data into compelling narratives that resonate with your audience.
 
 ## Assignments
 ### 1.1 - Comparing Contribution
