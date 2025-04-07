@@ -1,4 +1,5 @@
 ## Chapter 3: Conditional Formulas
+In this chapter, you’ll learn how to use logical functions to create conditional formulas for new flags and filters for your data. You will combine the logical operators to create nested formulas, specifically using the IF function to create new category data. Additionally, you will understand how to differentiate between notes and comments in Excel and use them effectively to share information with others.
 
 ## Assignments
 ### 3.1 - Not to Be
