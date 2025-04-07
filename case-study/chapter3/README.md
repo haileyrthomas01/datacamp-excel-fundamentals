@@ -1,4 +1,5 @@
 ## Chapter 3: Create a Cohesive Story
+In the last chapter, you’ll create a dashboard-style sheet and arrange your visuals to present your results to stakeholders in a cohesive story.
 
 ## Assignments
 ### 3.1 - Importing Files
