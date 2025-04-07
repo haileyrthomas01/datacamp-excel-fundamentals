@@ -22,6 +22,6 @@ This chapter will explore how to work with dual series and prepare more advanced
 - Scatter plots work great when comparing the performance of various categories across two measures plotted along X- and Y-axis.
 - An optional third measure can be added, defining the size of the data points on the chart. Could this be the most versatile chart ever?
 - In this exercise, we will use it to analyze how the Regions stack up against each other when it comes to sales, profit, and quantity.
-![Formatting Example]([./screenshots/formatting_example.png](https://github.com/haileyrthomas01/datacamp-excel-fundamentals/blob/main/data-visualization-in-excel/pics/Screenshot%202025-04-07%20150555.png))
+![Formatting Example](https://github.com/haileyrthomas01/datacamp-excel-fundamentals/blob/main/data-visualization-in-excel/pics/Screenshot%202025-04-07%20150555.png)
 
 
