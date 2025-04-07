@@ -1,4 +1,5 @@
 ## Chapter 2: Intermediate Logical Functions
+You’ll identify your ideal customer profile using logical functions and create targeted marketing strategies. You’ll explore the concept of customer segmentation and gain the skills to maximize customer success, increase revenue and boost business growth. You’ll utilize functions such as Nested IFs, SWITCH, and COUNTIFS.
 
 ## Assignments
 ### 2.1 - Importing Files
