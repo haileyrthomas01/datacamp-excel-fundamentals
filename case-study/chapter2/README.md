@@ -1,4 +1,5 @@
 ## Chapter 2: Investigating churn patterns
+You’ll continue leveraging the Excel knowledge you gained from the prerequisite courses to investigate further why customers are leaving Databel.
 
 ## Assignments
 ### 2.1 - Importing Files
