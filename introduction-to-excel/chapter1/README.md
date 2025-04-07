@@ -20,6 +20,3 @@
 ### 1.6 - Formatting Tables
 - Now that we've familiarized ourselves with our data, we will apply rules to our columns for data integrity. By default, most of our columns will default to the format "General".
 - In this exercise, we'll apply some column formatting.
-
-## Sample Work
-![Formatting Example](./screenshots/formatting_example.png)
