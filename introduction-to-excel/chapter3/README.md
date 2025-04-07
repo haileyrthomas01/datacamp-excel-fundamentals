@@ -27,4 +27,4 @@
 - Line charts offer a powerful means to represent trends and fluctuations, providing valuable insights into sales patterns.
 
 ## Sample Work
-![Formatting Example](./screenshots/formatting_example.png)
+![Formatting Example](./introduction-to-excel/chapter3/Screenshot 2025-04-07 141124.png)
