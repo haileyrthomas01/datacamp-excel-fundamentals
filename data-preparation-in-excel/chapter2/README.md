@@ -1,4 +1,5 @@
 ## Chapter 2: Functions for Data Preparation
+In this chapter, you’ll learn how to use text category functions to combine text strings with useful variables for better analysis. You will also utilize some of Excel's date and time functions, taking simple date columns to a new level.
 
 ## Assignments
 ### 2.1 - Equal Length
