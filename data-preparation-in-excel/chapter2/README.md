@@ -3,17 +3,15 @@ In this chapter, you’ll learn how to use text category functions to combine te
 
 ## Assignments
 ### 2.1 - Equal Length
-- Learned to use cell formatting (bold, colors, number formats)
-- Practiced data entry and basic calculations
+- Some values in the Customer State column could have unwanted characters due to a processing error with the customer information database.
+- This could be an issue! You must use some text category functions to clean the data and continue the data preparation process.
 
 ### 2.2 - Joining Together
-- Used SUM, AVERAGE, MIN, and MAX functions
-- Explored relative vs absolute cell references
+- Location data, such as the street, city, zip code, and state, dominate the information that DataCo has sent you regarding their customers.
+- This data is all contained in different columns. Although some more specific fields, like street and zip code, would be useful for marketing or billing, it doesn't necessarily need to be split out.
+- Would you conduct an analysis involving the customer's zip code or street name? There is more work to do on the Customers sheet! (Use =TEXTJOIN(", ",FALSE,___,___,___) and Protect Sheet)
 
 ### 2.3 - Dates and More
-- Learned to use cell formatting (bold, colors, number formats)
-- Practiced data entry and basic calculations
-
-
-## Sample Work
-![Formatting Example](./screenshots/formatting_example.png)
+- DataCo is a supply chain company that receives many customer orders for products that must be delivered to different locations.
+- This means that DataCo has to keep track of important date information, such as order or delivery dates.
+- With this in mind, you can now create useful date columns and information related to dates that can be used for your analysis. (Use WEEKDAY(, ), =TODAY(), and =WORKDAY( ,))
