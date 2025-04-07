@@ -18,5 +18,3 @@
 - Now, we're looking to summarize our total sales and cost to calculate our overall profit and profit margin ratio.
 - We'll be using a mix of aggregate function and arithmetic to achieve our desired result! The output will enable Adventure Works to better understand their total profit and profit margin.
 
-## Sample Work
-![Formatting Example](./screenshots/formatting_example.png)
