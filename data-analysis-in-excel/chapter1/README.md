@@ -1,4 +1,5 @@
 ## Chapter 1: Exploring data with PivotCharts
+You will learn how to extract valuable insights and uncover secrets hidden within your data using the power of PivotTables. Additionally, you’ll learn how to use keyboard shortcuts to speed up your workflow.
 
 ## Assignments
 ### 1.1 - Importing Files
