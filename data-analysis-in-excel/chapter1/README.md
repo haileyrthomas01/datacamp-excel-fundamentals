@@ -3,21 +3,24 @@ You will learn how to extract valuable insights and uncover secrets hidden withi
 
 ## Assignments
 ### 1.1 - Importing Files
-- Learned to use cell formatting (bold, colors, number formats)
-- Practiced data entry and basic calculations
+- PivotTables are a great way to start exploratory data analysis. They can easily summarize and manipulate data, which makes them a powerful tool.
+- It's also important to make sure everything we do is concise and accurate, so we'll use best practices in naming our fields and formatting the data correctly.
+- Let's create a PivotTable of Bananas Sales.xlsx to get a better understanding of the data as a whole.
+![Formatting Example](https://github.com/haileyrthomas01/datacamp-excel-fundamentals/blob/main/data-analysis-in-excel/screenshots/banana_sales1.png)
 
 ### 1.2 - Deduping
-- Used SUM, AVERAGE, MIN, and MAX functions
-- Explored relative vs absolute cell references
+- In this exercise, you will create some groups based on Subscription Type and Licenses Bought to see and investigate if there are any interesting patterns.
+- In this dataset, the Number of Users is the number of people actively using the platform under the Customer ID, whereas the Licenses Bought is the total number of paid subscriptions the customer has under their account.
+- Each Customer ID has a unique combination of Basic non-paid users or bought licenses.
+![Formatting Example](https://github.com/haileyrthomas01/datacamp-excel-fundamentals/blob/main/data-analysis-in-excel/screenshots/Screenshot%202025-04-07%20153416.png)
 
 ### 1.3 - Flashy Filling
-- Learned to use cell formatting (bold, colors, number formats)
-- Practiced data entry and basic calculations
+- In this exercise, you will start slicing the data by Sales Month and Subscription Type to continue your exploration of the data.
+- One of the best ways to explore data is to compare different cohorts or groups of data against each other. This helps the data tell stories and unlock deeper insights.
+![Formatting Example](https://github.com/haileyrthomas01/datacamp-excel-fundamentals/blob/main/data-analysis-in-excel/screenshots/Screenshot%202025-04-07%20153441.png)
 
 ### 1.4 - Series Filling
-- Used SUM, AVERAGE, MIN, and MAX functions
-- Explored relative vs absolute cell references
-
-## Sample Work
-![Formatting Example](./screenshots/formatting_example.png)
-
+- In this exercise, you will start slicing the data by Sales Month and Subscription Type to continue your exploration of the data.
+- Sometimes there is just too much data to make sense of it all. That's where Slicers can be very helpful in splitting up and filtering data so that it can be explored and compared.
+- Slicers are essentially just Filters, but they stay visible and therefore can be a bit easier to manage and reference. There are two types of slicers we can add to our PivotTable: the Slicer and the Timeline.
+![Formatting Example](https://github.com/haileyrthomas01/datacamp-excel-fundamentals/blob/main/data-analysis-in-excel/screenshots/Screenshot%202025-04-07%20154410.png)
