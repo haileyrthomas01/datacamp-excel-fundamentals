@@ -1,6 +1,6 @@
 # DataCamp Excel Fundamentals Track
 
-[Cert](https://github.com/haileyrthomas01/datacamp-excel-fundamentals/blob/main/certs/excelfund.png)
+![Cert](https://github.com/haileyrthomas01/datacamp-excel-fundamentals/blob/main/certs/excelfund.png)
 [Track Statement of Accomplishment](https://www.datacamp.com/completed/statement-of-accomplishment/track/9505e5f3355f819b4f3403f4f171563d7dd9cbe1)
 
 ## Overview
