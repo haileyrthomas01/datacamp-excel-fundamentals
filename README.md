@@ -1,5 +1,7 @@
 # DataCamp Excel Fundamentals Track
 
+[Track Statement of Accomplishment](https://www.datacamp.com/completed/statement-of-accomplishment/track/9505e5f3355f819b4f3403f4f171563d7dd9cbe1)
+
 ## Overview
 This repository contains my assignments and projects from the DataCamp Excel Fundamentals track, covering five courses focused on Excel skills for data analysis.
 
@@ -88,26 +90,49 @@ This repository contains my assignments and projects from the DataCamp Excel Fun
 - 📂 Course 4 - Data Analysis in Excel
   - 📂 Chapter 1 - Exploring data with PivotTables
       - 📂 Assignment 1 (1.1)
+      - 📂 Assignment 1 (1.1)
+      - 📂 Assignment 1 (1.1)
+      - 📂 Assignment 1 (1.1)
+      - 📂 Assignment 1 (1.1)
 
   - 📂 Chapter 2 - Intermediate Logical Functions
       - 📂 Assignment 1 (2.1)
+      - 📂 Assignment 1 (1.1)
+      - 📂 Assignment 1 (1.1)
+      - 📂 Assignment 1 (1.1)
 
   - 📂 Chapter 3 - What-if analysis
       - 📂 Assignment 1 (3.1)
+      - 📂 Assignment 1 (1.1)
+      - 📂 Assignment 1 (1.1)
+      - 📂 Assignment 1 (1.1)
 
   - 📂 Chapter 4 - Forecasting
       - 📂 Assignment 1 (4.1)
+      - 📂 Assignment 1 (1.1)
+      - 📂 Assignment 1 (1.1)
 
 
 - 📂 Course 5 - Case Study: Analyzing Customer Churn in Excel
   - 📂 Chapter 1 - Exploratory analysis
       - 📂 Assignment 1 (1.1)
+      - 📂 Assignment 1 (1.1)
+      - 📂 Assignment 1 (1.1)
+      - 📂 Assignment 1 (1.1)
 
    - 📂 Chapter 2 - Investigating churn patterns
       - 📂 Assignment 1 (2.1)
+      - 📂 Assignment 1 (1.1)
+      - 📂 Assignment 1 (1.1)
+      - 📂 Assignment 1 (1.1)
+      - 📂 Assignment 1 (1.1)
 
   - 📂 Chapter 3 - Creating a cohesive story
       - 📂 Assignment 1 (3.1)
+      - 📂 Assignment 1 (1.1)
+      - 📂 Assignment 1 (1.1)
+      - 📂 Assignment 1 (1.1)
+      - 📂 Assignment 1 (1.1)
 
 Each course folder contains assignments with summaries in their respective README files.
 
