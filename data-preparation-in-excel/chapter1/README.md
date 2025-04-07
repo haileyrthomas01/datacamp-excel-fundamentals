@@ -1,4 +1,5 @@
 ## Chapter 1: Starting Data Preparation in Excel
+In this chapter, you’ll learn different ways to source and import your raw data into Excel. You will then start your preparation of raw data by removing duplicates added in error and filling in the missing parts of your data that will help you prepare the best dataset for analytical use.
 
 ## Assignments
 ### 1.1 - Importing Files
