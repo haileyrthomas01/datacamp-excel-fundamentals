@@ -1,4 +1,5 @@
 ## Chapter 4: Visualizing disaggregated data with PivotCharts
+We'll explore PivotTables, PivotCharts, and how to combine them into a dynamic mini-dashboard. Are you ready to unlock the true power of your data? Let's dive in!
 
 ## Assignments
 ### 4.1 - Basic PivotCharts
