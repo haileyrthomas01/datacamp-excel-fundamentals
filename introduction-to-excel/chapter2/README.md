@@ -18,3 +18,5 @@
 - Now, we're looking to summarize our total sales and cost to calculate our overall profit and profit margin ratio.
 - We'll be using a mix of aggregate function and arithmetic to achieve our desired result! The output will enable Adventure Works to better understand their total profit and profit margin.
 
+## Sample Work
+![Formatting Example](https://github.com/haileyrthomas01/datacamp-excel-fundamentals/blob/main/introduction-to-excel/chapter3/Screenshot%202025-04-07%20141138.png)
