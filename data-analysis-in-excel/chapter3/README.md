@@ -21,6 +21,3 @@ You’ll master the art of scenario analysis using Excel’s built-in What-If An
 - Data Tables are a great tool for What-If analysis. Similar to the Scenario Summary, they create a table with the results of the inputs; however, it does this in a much easier way.
 - Bananas wants to keep exploring their pricing strategy, and they're curious about how Premium sales would be impacted at various levels of prices and demand. The Data Table is the perfect tool for this.
 ![Formatting Example](https://github.com/haileyrthomas01/datacamp-excel-fundamentals/blob/main/data-analysis-in-excel/screenshots/Screenshot%202025-04-07%20161306.png)
-
-## Sample Work
-![Formatting Example](https://github.com/haileyrthomas01/datacamp-excel-fundamentals/blob/main/data-analysis-in-excel/screenshots/Screenshot%202025-04-07%20161306.png)
