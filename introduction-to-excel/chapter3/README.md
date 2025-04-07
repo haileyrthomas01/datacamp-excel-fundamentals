@@ -28,5 +28,5 @@
 
 ## Sample Work
 ![Formatting Example](https://github.com/haileyrthomas01/datacamp-excel-fundamentals/blob/main/introduction-to-excel/chapter3/Screenshot%202025-04-07%20141124.png)
-![Formatting Example](https://github.com/haileyrthomas01/datacamp-excel-fundamentals/blob/main/introduction-to-excel/chapter3/Screenshot%202025-04-07%20141124.png)
+![Formatting Example](https://github.com/haileyrthomas01/datacamp-excel-fundamentals/blob/main/introduction-to-excel/chapter3/Screenshot%202025-04-07%20141138.png)
 ![Formatting Example](https://github.com/haileyrthomas01/datacamp-excel-fundamentals/blob/main/introduction-to-excel/chapter3/Screenshot%202025-04-07%20141124.png)
