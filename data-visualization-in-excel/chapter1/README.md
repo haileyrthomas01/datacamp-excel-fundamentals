@@ -15,7 +15,7 @@ In Chapter 1, you will embark on an immersive exploration of basic Excel charts,
 
 ### 1.4 - Visualizing Sales per Segment
 - In this exercise, you will present the sales per segment and check which sub-category performs best (or worst) in a given segment. (Create a Stacked Bar Chart sorted from highest to lowest)
-![Formatting Example]()
+![Formatting Example](https://github.com/haileyrthomas01/datacamp-excel-fundamentals/blob/main/data-visualization-in-excel/chapter1/Screenshot%202025-04-07%20145915.png)
 
 ### 1.5 - Quarterly Sales Per Region
 - He wants to see the overall evolution of quarterly sales and how each region contributes to the business's success. Can you assist him by creating accurate visualizations? (Generate calculations, create a line chart, and 100% Stacked Area Chart)
