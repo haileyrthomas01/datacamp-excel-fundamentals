@@ -1,4 +1,5 @@
 ## Chapter 4: Forecasting
+You will unlock the power of forecasting to anticipate future trends and visualize this data for your stakeholders. You’ll leverage moving averages and trendlines to communicate your findings.
 
 ## Assignments
 ### 4.1 - Importing Files
