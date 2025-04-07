@@ -1,5 +1,5 @@
 ## Chapter 2: Advancing to more complex charts
-Ready to further enhance your charting skills with Excel? This chapter will explore how to work with dual series and prepare more advanced charts, such as Bullet charts, Waterfall charts, or Scatter plots. Additionally, we will investigate various chart editing options. There's a lot to learn, so let's get started!
+This chapter will explore how to work with dual series and prepare more advanced charts, such as Bullet charts, Waterfall charts, or Scatter plots. Additionally, we will investigate various chart editing options. There's a lot to learn, so let's get started!
 
 ## Assignments
 ### 2.1 - Combo Charts
