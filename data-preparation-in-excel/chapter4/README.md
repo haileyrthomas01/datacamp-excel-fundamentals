@@ -23,4 +23,4 @@ In this chapter, you’ll finish by looking at some important lookup and referen
 - Explored relative vs absolute cell references
 
 ## Sample Work
-![Formatting Example](./screenshots/formatting_example.png)
+![Formatting Example](https://github.com/haileyrthomas01/datacamp-excel-fundamentals/blob/main/data-preparation-in-excel/screenshots/Screenshot%202025-04-07%20143449.png)
