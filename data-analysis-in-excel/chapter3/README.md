@@ -1,4 +1,5 @@
 ## Chapter 3: What-if analysis
+You’ll master the art of scenario analysis using Excel’s built-in What-If Analysis tool. You’ll understand how different variables can impact your sales, perform sensitivity analysis and use it to make informed predictions to stay ahead in dynamic business environments.
 
 ## Assignments
 ### 3.1 - Importing Files
