@@ -1,4 +1,5 @@
 ## Chapter 2: Managing data and applying aggregate functions
+In this chapter, you’ll learn how to work with data in a tabular layout. You will cover topics such as creating named ranges, using subtotals to summarize groups of data, and applying data validation rules. Additionally, you’ll learn how to use aggregate functions in Excel to help summarize your data.
 
 ## Assignments
 ### 2.1 - Naming Ranges
