@@ -2,32 +2,24 @@
 
 ## Assignments
 ### 1.1 - Loading Workbooks
-- Learned to use cell formatting (bold, colors, number formats)
-- Practiced data entry and basic calculations
+- Before we dive into Excel, we first need to learn how to open existing workbooks.
 
 ### 1.2 - Working with Data
-- Used SUM, AVERAGE, MIN, and MAX functions
-- Explored relative vs absolute cell references
+- You know how to open an existing workbook and highlight values in a column, in this exercise we're going to add data into our spreadsheet manually and by copying/pasting data from another Excel file.
 
 ### 1.3 - Creating Your First Formula
-- Learned to use cell formatting (bold, colors, number formats)
-- Practiced data entry and basic calculations
+- A common use case for Excel is to carry out mathematical operations, so in this exercise, we'll be carrying some basic arithmetic operations on the Google Stock Price data in our workbook.
 
 ### 1.4 - Working with Structured Reference
-- Used SUM, AVERAGE, MIN, and MAX functions
-- Explored relative vs absolute cell references
+- Adventure Works is a global retail brand that sells bikes, bike parts, and accessories. Your role is to work as an Analyst to support their management teams understanding of their sales data.
+- In this exercise, we'll be working with their Sales table which contains all orders from 2017. We'll start by creating a new column that uses structured cell references to perform a calculation.
 
 ### 1.5 - Filtering Data
-- Used SUM, AVERAGE, MIN, and MAX functions
-- Explored relative vs absolute cell references
+- In this exercise, we'll filter and sort our data in various ways to help Adventure Works better understand its sales in a given period.
 
 ### 1.6 - Formatting Tables
-- Learned to use cell formatting (bold, colors, number formats)
-- Practiced data entry and basic calculations
-
-### 1.7 - Chapter Solution
-- Used SUM, AVERAGE, MIN, and MAX functions
-- Explored relative vs absolute cell references
+- Now that we've familiarized ourselves with our data, we will apply rules to our columns for data integrity. By default, most of our columns will default to the format "General".
+- In this exercise, we'll apply some column formatting.
 
 ## Sample Work
 ![Formatting Example](./screenshots/formatting_example.png)
