@@ -20,3 +20,6 @@
 ### 1.6 - Formatting Tables
 - Now that we've familiarized ourselves with our data, we will apply rules to our columns for data integrity. By default, most of our columns will default to the format "General".
 - In this exercise, we'll apply some column formatting.
+
+## Sample Work
+[sam](https://github.com/haileyrthomas01/datacamp-excel-fundamentals/blob/main/introduction-to-excel/screenshots/Screenshot%202025-04-07%20141633.png)
