@@ -90,49 +90,49 @@ This repository contains my assignments and projects from the DataCamp Excel Fun
 - 📂 Course 4 - Data Analysis in Excel
   - 📂 Chapter 1 - Exploring data with PivotTables
       - 📂 Assignment 1 (1.1)
-      - 📂 Assignment 1 (1.1)
-      - 📂 Assignment 1 (1.1)
-      - 📂 Assignment 1 (1.1)
-      - 📂 Assignment 1 (1.1)
+      - 📂 Assignment 1 (1.2)
+      - 📂 Assignment 1 (1.3)
+      - 📂 Assignment 1 (1.4)
+      - 📂 Assignment 1 (1.5)
 
   - 📂 Chapter 2 - Intermediate Logical Functions
       - 📂 Assignment 1 (2.1)
-      - 📂 Assignment 1 (1.1)
-      - 📂 Assignment 1 (1.1)
-      - 📂 Assignment 1 (1.1)
+      - 📂 Assignment 1 (2.2)
+      - 📂 Assignment 1 (2.3)
+      - 📂 Assignment 1 (2.4)
 
   - 📂 Chapter 3 - What-if analysis
       - 📂 Assignment 1 (3.1)
-      - 📂 Assignment 1 (1.1)
-      - 📂 Assignment 1 (1.1)
-      - 📂 Assignment 1 (1.1)
+      - 📂 Assignment 1 (3.2)
+      - 📂 Assignment 1 (3.3)
+      - 📂 Assignment 1 (3.4)
 
   - 📂 Chapter 4 - Forecasting
       - 📂 Assignment 1 (4.1)
-      - 📂 Assignment 1 (1.1)
-      - 📂 Assignment 1 (1.1)
+      - 📂 Assignment 1 (4.2)
+      - 📂 Assignment 1 (4.3)
 
 
 - 📂 Course 5 - Case Study: Analyzing Customer Churn in Excel
   - 📂 Chapter 1 - Exploratory analysis
       - 📂 Assignment 1 (1.1)
-      - 📂 Assignment 1 (1.1)
-      - 📂 Assignment 1 (1.1)
-      - 📂 Assignment 1 (1.1)
+      - 📂 Assignment 1 (1.2)
+      - 📂 Assignment 1 (1.3)
+      - 📂 Assignment 1 (1.4)
 
    - 📂 Chapter 2 - Investigating churn patterns
       - 📂 Assignment 1 (2.1)
-      - 📂 Assignment 1 (1.1)
-      - 📂 Assignment 1 (1.1)
-      - 📂 Assignment 1 (1.1)
-      - 📂 Assignment 1 (1.1)
+      - 📂 Assignment 1 (2.2)
+      - 📂 Assignment 1 (2.3)
+      - 📂 Assignment 1 (2.4)
+      - 📂 Assignment 1 (2.5)
 
   - 📂 Chapter 3 - Creating a cohesive story
       - 📂 Assignment 1 (3.1)
-      - 📂 Assignment 1 (1.1)
-      - 📂 Assignment 1 (1.1)
-      - 📂 Assignment 1 (1.1)
-      - 📂 Assignment 1 (1.1)
+      - 📂 Assignment 1 (3.2)
+      - 📂 Assignment 1 (3.3)
+      - 📂 Assignment 1 (3.4)
+      - 📂 Assignment 1 (3.5)
 
 Each course folder contains assignments with summaries in their respective README files.
 
