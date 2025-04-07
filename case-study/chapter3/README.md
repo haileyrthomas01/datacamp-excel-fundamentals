@@ -18,4 +18,4 @@
 - Explored relative vs absolute cell references
 
 ## Sample Work
-![Formatting Example](./screenshots/formatting_example.png)
+![Formatting Example](https://github.com/haileyrthomas01/datacamp-excel-fundamentals/blob/main/case-study/screenshots/casestudydash.png)
