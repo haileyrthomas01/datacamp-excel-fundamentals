@@ -23,4 +23,4 @@ In this chapter, you’ll learn how to navigate Excel and understand how best to
 - In this exercise, we'll apply some column formatting.
 
 ## Sample Work
-[sam](https://github.com/haileyrthomas01/datacamp-excel-fundamentals/blob/main/introduction-to-excel/screenshots/Screenshot%202025-04-07%20141633.png)
+![sam](https://github.com/haileyrthomas01/datacamp-excel-fundamentals/blob/main/introduction-to-excel/screenshots/Screenshot%202025-04-07%20141633.png)
