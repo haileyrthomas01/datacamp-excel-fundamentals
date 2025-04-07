@@ -11,7 +11,7 @@ In Chapter 1, you will embark on an immersive exploration of basic Excel charts,
 
 ### 1.3 - Total Sales
 - The management is curious about which Sub-Category performs best when it comes to sales. Let's find the appropriate visualizations for this use case. (Create calculations, sort them, and create a sorted bar chart)
-![Formatting Example]()
+![Formatting Example](https://github.com/haileyrthomas01/datacamp-excel-fundamentals/blob/main/data-visualization-in-excel/chapter1/Screenshot%202025-04-07%20145923.png)
 
 ### 1.4 - Visualizing Sales per Segment
 - In this exercise, you will present the sales per segment and check which sub-category performs best (or worst) in a given segment. (Create a Stacked Bar Chart sorted from highest to lowest)
