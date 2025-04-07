@@ -21,5 +21,4 @@ In this chapter, you’ll learn different ways to source and import your raw dat
 - But what if you haven't got existing data that can be used to find a pattern? The Fill Series feature of Excel can help here.
 - You might have seen that the Orders sheet has a date column present. It is good practice to create a date lookup sheet that you can use for date preparation later on.
 
-## Sample Work
-![Formatting Example](./screenshots/formatting_example.png)
+
