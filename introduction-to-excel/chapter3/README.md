@@ -1,4 +1,5 @@
 ## Chapter 3: Other functions and visualizing data
+Finally, in this chapter, we’ll finish by looking at the various functions available within Excel and learn how to start visualizing basic data. You will cover text, date and time, statistical functions, and learning to use built-in Excel features to visualize your data.
 
 ## Assignments
 ### 3.1 - Product Profiles
