@@ -27,4 +27,6 @@
 - Line charts offer a powerful means to represent trends and fluctuations, providing valuable insights into sales patterns.
 
 ## Sample Work
-![Formatting Example](./introduction-to-excel/chapter3/Screenshot 2025-04-07 141124.png)
+![Formatting Example](https://github.com/haileyrthomas01/datacamp-excel-fundamentals/blob/main/introduction-to-excel/chapter3/Screenshot%202025-04-07%20141124.png)
+![Formatting Example](https://github.com/haileyrthomas01/datacamp-excel-fundamentals/blob/main/introduction-to-excel/chapter3/Screenshot%202025-04-07%20141124.png)
+![Formatting Example](https://github.com/haileyrthomas01/datacamp-excel-fundamentals/blob/main/introduction-to-excel/chapter3/Screenshot%202025-04-07%20141124.png)
