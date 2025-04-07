@@ -9,7 +9,8 @@ You’ll master the art of scenario analysis using Excel’s built-in What-If An
 
 ### 3.2 - Using Goal Seek
 - Sometimes, we know the end goal but are unsure how to get there. We know the last month's Sales Amount was about $80,000.
-- Let's say Bananas's sales team aims to earn $100,000 in monthly sales revenue. Which growth rate do they need to achieve? We could calculate this ourselves or use Goal Seek!
+- Let's say Bananas's sales team aims to earn $100,000 in monthly sales revenue. Which growth rate do they need to achieve?
+- We could calculate this ourselves or use Goal Seek!
 ![Formatting Example](https://github.com/haileyrthomas01/datacamp-excel-fundamentals/blob/main/data-analysis-in-excel/screenshots/Screenshot%202025-04-07%20161142.png)
 
 ### 3.3 - What-if analysis with Scenario Manager
