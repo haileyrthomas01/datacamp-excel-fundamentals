@@ -3,20 +3,23 @@ In this chapter, you’ll learn different ways to source and import your raw dat
 
 ## Assignments
 ### 1.1 - Importing Files
-- Learned to use cell formatting (bold, colors, number formats)
-- Practiced data entry and basic calculations
+- The IT team has provided three files containing all the data you need to process and analyze.
+- It would be more efficient for you to work on this raw data if it was all in one file!
 
 ### 1.2 - Deduping
-- Used SUM, AVERAGE, MIN, and MAX functions
-- Explored relative vs absolute cell references
+- Now that you have all the raw data in one file, you can continue preparing the dataset for its final use.
+- The IT department sent you completely raw data, so a good next step is to search and remove all duplicate rows that could distort any final analysis.
+- The Customers and Orders sheets will act like reference tables and help provide more details on the orders placed. Both sheets contain identification numbers that should be unique. Let's make sure that is the case!
 
 ### 1.3 - Flashy Filling
-- Learned to use cell formatting (bold, colors, number formats)
-- Practiced data entry and basic calculations
+- When preparing your dataset, keeping track of how large the file size will be and how easy it is to read and view the data when looking at sheets is important.
+- The lookup sheets help make the file more efficient and readable, as you can reduce the number of columns in just one sheet.
+- However, better ways exist to display the information in these lookup sheets. This might be a good time to use Excel's fill features!
 
 ### 1.4 - Series Filling
-- Used SUM, AVERAGE, MIN, and MAX functions
-- Explored relative vs absolute cell references
+- You used Flash-fill to populate a column in Excel easily.
+- But what if you haven't got existing data that can be used to find a pattern? The Fill Series feature of Excel can help here.
+- You might have seen that the Orders sheet has a date column present. It is good practice to create a date lookup sheet that you can use for date preparation later on.
 
 ## Sample Work
 ![Formatting Example](./screenshots/formatting_example.png)
